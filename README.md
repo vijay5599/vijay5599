@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Vijay | MERN & Fullstack Developer  
 
-<!--
-**vijay5599/vijay5599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building scalable web applications and solving real-world problems.  
+💻 Skilled in **React, Next.js, Node.js, Express, MongoDB, PostgreSQL, FastAPI, Azure, Docker**.  
+📌 Open to freelance projects and collaborations.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=fff)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FC6D26?logo=gitlab&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
+
+---
+
+## 📌 Featured Projects  
+
+- [📖 ArticleAgent](https://github.com/yourrepo/articleagent) – AI-powered article generator  
+- [🎨 EzyThemes](https://github.com/yourrepo/ezythemes) – Infographic & theme builder  
+- [🖼️ Imaginify](https://github.com/yourrepo/imaginify) – AI image generator  
+- [📊 DCIM Demo](https://github.com/yourrepo/dcim-demo) – Data Center Infrastructure Management app  
+
+---
+
+## 📊 GitHub Stats  
+
+![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaybenal&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaybenal&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijaybenal&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🌍 [Portfolio](https://yourwebsite.com)  
+- 📧 [Email](mailto:youremail@gmail.com)  
+
+---
+✨ *Let’s build something amazing together!*  
