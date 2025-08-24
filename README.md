@@ -25,27 +25,17 @@
 ---
 
 ## 📌 Featured Projects  
-
-- [📖 ArticleAgent](https://github.com/yourrepo/articleagent) – AI-powered article generator  
-- [🎨 EzyThemes](https://github.com/yourrepo/ezythemes) – Infographic & theme builder  
 - [🖼️ Imaginify](https://github.com/yourrepo/imaginify) – AI image generator  
-- [📊 DCIM Demo](https://github.com/yourrepo/dcim-demo) – Data Center Infrastructure Management app  
 
 ---
 
-## 📊 GitHub Stats  
 
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaybenal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaybenal&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijaybenal&theme=radical)  
-
----
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌍 [Portfolio](https://yourwebsite.com)  
-- 📧 [Email](mailto:youremail@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vijay-v-benal-184926169/)  
+- 🌍 [Portfolio](https://my-portfolio-iota-seven-20.vercel.app/)  
+- 📧 [Email](mailto:vbvijay84@gmail.com)  
 
 ---
 ✨ *Let’s build something amazing together!*  
